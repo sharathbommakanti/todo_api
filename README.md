@@ -4,18 +4,18 @@ A comprehensive Spring Boot REST API for Todo Management with OAuth 2.0 authenti
 
 ## Features
 
-- ✅ **Spring Boot 3.2** with Java 17
-- ✅ **JPA/Hibernate** for database operations
-- ✅ **OAuth 2.0** with JWT token authentication
-- ✅ **RESTful API** with proper HTTP methods
-- ✅ **Service Layer** with business logic
-- ✅ **Repository Layer** with Spring Data JPA
-- ✅ **DTO Pattern** for data transfer
-- ✅ **Exception Handling** with global exception handler
-- ✅ **Validation** with Bean Validation
-- ✅ **CORS Configuration** for frontend integration
-- ✅ **H2 Database** (can be switched to PostgreSQL/MySQL)
-- ✅ **Security** with Spring Security
+- **Spring Boot 3.2** with Java 17
+- **JPA/Hibernate** for database operations
+- **OAuth 2.0** with JWT token authentication
+- **RESTful API** with proper HTTP methods
+- **Service Layer** with business logic
+- **Repository Layer** with Spring Data JPA
+- **DTO Pattern** for data transfer
+- **Exception Handling** with global exception handler
+- **Validation** with Bean Validation
+- **CORS Configuration** for frontend integration
+- **H2 Database** (can be switched to PostgreSQL/MySQL)
+- **Security** with Spring Security
 
 ## Tech Stack
 
